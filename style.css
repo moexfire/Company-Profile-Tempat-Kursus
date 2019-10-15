@@ -66,7 +66,7 @@ padding: 14px 24px;
   margin: 1rem;
 }
 .programcard{
-  width: 26rem;
+  width: 85%;
  margin: auto;
 
 }
@@ -180,7 +180,8 @@ padding: 14px 24px;
   padding: 0;
 }
 .programcard{
-  width: 24rem;
+  width: 85%;
+  margin: auto;
 }
 }
 @media (max-width: 992px) {
@@ -207,7 +208,8 @@ padding: 14px 24px;
   height: 500px;
 }
 .programcard{
-  width: 24rem;
+  width: 90%;
+  margin: auto;
 }
 }
 @media (max-width: 768px) {
@@ -234,7 +236,8 @@ padding: 14px 24px;
   height: 400px;
 }
 .programcard{
-  width: 23rem;
+  width: 90%;
+  margin: auto;
 }
 }
 @media (max-width: 576px) {
@@ -280,6 +283,7 @@ padding: 14px 24px;
   height: 300px;
 }
 .programcard{
-  width: 20rem;
+  width: 100%;
+  margin: auto;
 }
 }
